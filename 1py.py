@@ -1,4 +1,3 @@
-"""
 print("Hi")
 a = 0
 match a:
@@ -28,6 +27,6 @@ def d():
 
 d()
 #global, nonlocal переменные в функции global - изменение из внешнего кода, nonlocal - сделать не локальной переменную
-"""
+
 a = lambda y: y + 10
 print(a(4))
